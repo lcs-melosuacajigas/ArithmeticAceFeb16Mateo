@@ -21,6 +21,7 @@
 		AE18BFB527BBEBD700014636 /* QuestionPresentationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE18BFB427BBEBD700014636 /* QuestionPresentationView.swift */; };
 		AE18BFB727BBF05900014636 /* AnswerAndResultView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE18BFB627BBF05900014636 /* AnswerAndResultView.swift */; };
 		AEEED9E127BD5C0B00F16B47 /* ProgressView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEEED9E027BD5C0B00F16B47 /* ProgressView.swift */; };
+		AEEED9E327BD5E6E00F16B47 /* SquareView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEEED9E227BD5E6E00F16B47 /* SquareView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -38,6 +39,7 @@
 		AE18BFB427BBEBD700014636 /* QuestionPresentationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuestionPresentationView.swift; sourceTree = "<group>"; };
 		AE18BFB627BBF05900014636 /* AnswerAndResultView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnswerAndResultView.swift; sourceTree = "<group>"; };
 		AEEED9E027BD5C0B00F16B47 /* ProgressView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProgressView.swift; sourceTree = "<group>"; };
+		AEEED9E227BD5E6E00F16B47 /* SquareView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SquareView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				8113965727B3D32100E5B829 /* SubtractionView.swift */,
 				81FDA62D27B160FF002471AE /* MultiplicationView.swift */,
 				812B4B6327B319C5003A469B /* DivisionView.swift */,
+				AEEED9E227BD5E6E00F16B47 /* SquareView.swift */,
 				AEEED9E027BD5C0B00F16B47 /* ProgressView.swift */,
 			);
 			path = Views;
@@ -199,6 +202,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				81FDA62E27B160FF002471AE /* MultiplicationView.swift in Sources */,
+				AEEED9E327BD5E6E00F16B47 /* SquareView.swift in Sources */,
 				AE18BFB727BBF05900014636 /* AnswerAndResultView.swift in Sources */,
 				AE18BFB527BBEBD700014636 /* QuestionPresentationView.swift in Sources */,
 				812B4B6427B319C5003A469B /* DivisionView.swift in Sources */,
