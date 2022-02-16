@@ -54,8 +54,8 @@ struct SquareView: View {
 
     }
 }
-    ZStack {
-        
+    
+HStack {
         Button(action: {
             
             // Answer has been checked!
